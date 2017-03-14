@@ -1,0 +1,77 @@
+ka; ; ;ka
+ke; ; ;ke
+ki; ; ;ki
+ko; ; ;ko
+ku; ; ;ku
+ga; ; ;ga
+ge; ; ;ge
+gi; ; ;gi
+go; ; ;go
+gu; ; ;gu
+sa; ; ;sa
+se; ; ;se
+shi; ; ;shi
+so; ; ;so
+su; ; ;su
+za; ; ;za
+ze; ; ;ze
+zo; ; ;zo
+ji; ; ;ji
+zu; ; ;zu
+ta; ; ;ta
+te; ; ;te
+chi; ; ;chi
+to; ; ;to
+tsu; ; ;tsu
+da; ; ;da
+de; ; ;de
+do; ; ;do
+pa; ; ;pa
+pe; ; ;pe
+pi; ; ;pi
+po; ; ;po
+pu; ; ;pu
+ba; ; ;ba
+be; ; ;be
+bi; ; ;bi
+bo; ; ;bo
+bu; ; ;bu
+ha; ; ;ha
+he; ; ;he
+hi; ; ;hi
+ho; ; ;ho
+fu; ; ;fu
+wa; ; ;wa
+wo; ; ;wo
+ya; ; ;ya
+yo; ; ;yo
+yu; ; ;yu
+a; ; ;a
+o; ; ;o
+e; ; ;e
+u; ; ;u
+i; ; ;i
+n; ; ;n
+ma; ; ;ma
+me; ; ;me
+mi; ; ;mi
+mo; ; ;mo
+mu; ; ;mu
+ra; ; ;ra
+re; ; ;re
+ri; ; ;ri
+ro; ; ;ro
+ru; ; ;ru
+na; ; ;na
+ne; ; ;ne
+ni; ; ;ni
+no; ; ;no
+nu; ; ;nu
+
+
+
+
+
+
+
+
