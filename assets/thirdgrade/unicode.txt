@@ -1,0 +1,200 @@
+241; ;2;town section; measure word;ch;hinoto
+242; ;5;generation;sei, se;yo
+243; ;6;both;ry;teru, futatsu
+244; ;5;master, main;shu;nushi, omo
+245; ;9;ride;j;no-ru
+246; ;4;beforehand;yo;arakaji-me
+247; ;8;abstract thing;ji;koto
+248; ;5;serve;shi;tsuka-eru
+249; ;5;other;ta;hoka
+250; ;5;substitute;dai, tai;ka-waru, yo
+251; ;7;dwell;j;su-mu
+252; ;8;use;shi;tsuka-u
+253; ;9;person in charge;kei;kakari, kaka-ru
+254; ;10;double;bai;
+255; ;6;whole;zen;matta-ku
+256; ;8;tool;gu;sona-eru, tsubusa-ni
+257; ;5;copy;sha;utsu-su
+258; ;6;row;retsu;
+259; ;7;help;jo;tasu-keru
+260; ;10;diligence;ben;tsuto-meru
+261; ;11;move;d;ugo-ku
+262; ;12;win;sh;ka-tsu
+263; ;4;change;ka;ba-keru
+264; ;4;ward;ku;
+265; ;7;doctor;i;iya-su, i-suru
+266; ;5;leave;kyo, ko;sa-ru
+267; ;4;anti-;han;so-ru
+268; ;8;take;shu;to-ru
+269; ;8;receive;ju;u-keru
+270; ;5;number;g;yobina, sake-bu
+271; ;6;face (v.);k;mu-kau
+272; ;7;you; monarch;kun;kimi
+273; ;8;flavor;mi;aji, aji-wau
+274; ;8;fate, life;mei;inochi
+275; ;8;harmony; Japanese;wa;yawa-ragu, nago-yaka
+276; ;9;article;hin;shina
+277; ;10;employee;in;
+278; ;11;commerce;sh;
+279; ;11;question;mon;to-u, ton
+280; ;7;slope;han;saka
+281; ;5;center; ;
+282; ;8;begin;shi;haji-meru
+283; ;8;committee;i;yuda-neru
+284; ;6;protect;shu;mamo-ru
+285; ;6;cheap;an;yasu-i
+286; ;8;fix;tei, j;sada-meru
+287; ;8;fruit; reality;jitsu;mi, mino-ru
+288; ;9;guest;kyaku;
+289; ;10;Shinto shrine or prince (princess);ky, g;miya
+290; ;11;inn;shuku;yado, yado-ru
+291; ;12;cold;kan;samu-i
+292; ;7;opposite, against;tai, tsui;aite, soro-i
+293; ;7;office;kyoku;tsubone
+294; ;9;roof;oku;ya
+295; ;8;shore;gan;kishi
+296; ;10;island;t;shima
+297; ;6;state;sh;su
+298; ;11;curtain;ch;tobari
+299; ;5;flat;hei, by;tai-ra, hira
+300; ;8;happiness;k;saiwa-i, shiawa-se
+301; ;9;degree;do;tabi
+302; ;10;warehouse;ko, ku;kura
+303; ;10;yard;tei;niwa
+304; ;6;style; ceremony; numerical formula;shiki;
+305; ;7;role;yaku;
+306; ;9;wait;tai;ma-tsu
+307; ;9;hurry;ky;iso-gu
+308; ;10;breath;soku;iki
+309; ;11;bad;aku;waru-i
+310; ;12;sad;hi;kana-shii
+311; ;13;thought;s;
+312; ;13;idea;i;
+313; ;13;feel;kan;
+314; ;8;place;sho;tokoro
+315; ;5;hit;da;u-tsu
+316; ;7;throw;t;na-geru
+317; ;9;pick up;sh;hiro-u
+318; ;9;hold;ji;mo-tsu
+319; ;9;finger;shi;yubi, sa-su
+320; ;8;release;h;hana-su
+321; ;16;organize;sei;totono-eru
+322; ;10;trip;ryo;tabi
+323; ;11;tribe;zoku;
+324; ;8;long ago;seki, shaku;mukashi
+325; ;9;shine;sh;
+326; ;12;hot;sho;atsu-i
+327; ;13;dark;an;kura-i
+328; ;6;melody; curve;kyoku;ma-garu
+329; ;6;possess;y;a-ru
+330; ;8;clothes;fuku;
+331; ;12;period of time;ki;
+332; ;8;board;han, ban;ita
+333; ;9;pillar;ch;hashira
+334; ;10;root;kon;ne
+335; ;12;plant;shoku;u-eru
+336; ;13;business;gy;
+337; ;14;appearance;y;sama
+338; ;15;horizontal; ;yoko
+339; ;16;bridge;ky;hashi
+340; ;6;next;ji;tsugi, tsu-gu
+341; ;12;tooth;shi;ha
+342; ;6;death;shi;shi-nu
+343; ;5;ice;hy;kri
+344; ;7;decide;ketsu;ki-meru
+345; ;8;oil;yu;abura
+346; ;8;wave;ha;nami
+347; ;8;pour;ch;soso-gu
+348; ;8;swim;ei;oyo-gu
+349; ;9;ocean;y;
+350; ;10;stream;ry;naga-reru
+351; ;10;extinguish;sh;ki-eru, ke-su
+352; ;11;deep;shin;fuka-i
+353; ;12;warm;on;atata-kai
+354; ;12;harbor;k;minato
+355; ;12;lake;ko;mizmi
+356; ;12;hot water;t;yu
+357; ;13;China;kan;
+358; ;9;charcoal;tan;sumi
+359; ;8;thing;butsu, motsu;mono
+360; ;11;ball;ky;tama
+361; ;5;reason;y, yu;yoshi
+362; ;5;say;shin;m-su
+363; ;9;world;kai;
+364; ;9;farm; ;hata, hatake
+365; ;10;sick;by;yamai
+366; ;9;departure;hatsu;
+367; ;12;climb;t, to;nobo-ru
+368; ;5;skin;hi;kawa
+369; ;5;dish;bei;sara
+370; ;9;mutual;s;ai
+371; ;9;prefecture;ken;ka-keru
+372; ;10;true;shin;ma
+373; ;12;wear;chaku;ki-ru, tsu-ku
+374; ;12;short;tan;mijika-i
+375; ;9;sharpen;ken;to-gu
+376; ;5;salute;rei;
+377; ;9;deity;shin, jin;kami
+378; ;11;festival;sai;matsu-ri
+379; ;13;luck;fuku;
+380; ;9;second;by;
+381; ;7;research;ky;kiwa-meru
+382; ;11;chapter;sh;
+383; ;12;juvenile;d;warabe
+384; ;11;whistle;teki;fue
+385; ;11;ordinal;dai;
+386; ;12;writing brush;hitsu;fude
+387; ;12;class;t;hito-shii
+388; ;15;box;s;hako
+389; ;9;rank;ky;
+390; ;11;end;sh;o-waru
+391; ;14;green;ryoku;midori
+392; ;14;practice;ren;ne-ru
+393; ;6;sheep;y;hitsuji
+394; ;9;beauty;bi;utsuku-shii
+395; ;11;learn;sh;nara-u
+396; ;8;someone;sha;mono
+397; ;8;nurture;iku;soda-tsu
+398; ;8;suffer;ku;kuru-shii, niga-i
+399; ;10;luggage;ka;ni
+400; ;12;fall;raku;o-chiru
+401; ;12;leaf;y;ha
+402; ;16;medicine;yaku;kusuri
+403; ;6;blood;ketsu;chi
+404; ;8;express;hy;omote, arawa-su
+405; ;13;poem;shi;uta
+406; ;15;tone;ch;shira-beru
+407; ;15;discuss;dan;
+408; ;7;beans;t, zu;mame
+409; ;9;lose;fu;ma-keru, o-u
+410; ;10;awaken;ki;o-kiru
+411; ;13;path;ro;ji
+412; ;7;body;shin;mi
+413; ;11;revolve;ten;koro-bu
+414; ;12;light (not heavy);kei;karu-i
+415; ;13;agriculture;n;
+416; ;7;repay;hen;kae-su
+417; ;9;follow;tsui;o-u
+418; ;9;send;s;oku-ru
+419; ;10;fast;soku;haya-i
+420; ;11;progress;shin;susu-mu
+421; ;12;play;y;aso-bu
+422; ;12;carry;un;hako-bu
+423; ;11;part;bu;
+424; ;11;metropolis;to, tsu;miyako
+425; ;10;distribute;hai;kuba-ru
+426; ;10;liquor;shu;sake, saka
+427; ;9;heavy, gravity; pile;j, ch;omo-i, kasa-neru
+428; ;13;iron;tetsu;kurogane
+429; ;14;silver;gin;shirogane
+430; ;12;open;kai;hira-ku, a-ku
+431; ;10;institution;in;
+432; ;12;sun;y;hi
+433; ;12;storey;kai;kizahashi
+434; ;12;gather;sh;atsu-maru
+435; ;9;surface;men;omote, tsura
+436; ;18;topic;dai;
+437; ;12;drink;in;no-mu
+438; ;16;public building;kan;tate
+439; ;14;station;eki;
+440; ;14;nose;bi;hana
